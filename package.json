@@ -1,0 +1,29 @@
+{
+  "name": "ktor_vi",
+  "version": "1.0.0",
+  "description": "Got my card yet ? ",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktor-vi/gotmycard.git"
+  },
+  "author": "ktor_vi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktor-vi/gotmycard/issues"
+  },
+  "homepage": "https://github.com/ktor-vi/gotmycard#readme",
+  "dependencies": {
+    "align-text": "^1.0.2",
+    "asciify-image": "^0.1.5",
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.2.3",
+    "gradient-string": "^1.2.0",
+    "terminal-image": "^0.2.0"
+  }
+}
