@@ -7,9 +7,7 @@ const boxen = require('boxen');
 const chalk = require('chalk');
 const chalkAnimation = require('chalk-animation');
 const figlet = require('figlet');
-const align = require('align-text');
 const gradient = require('gradient-string');
-var asciify = require('asciify-image');
 
 
 const options = {
