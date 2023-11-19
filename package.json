@@ -1,6 +1,6 @@
 {
-  "name": "ktor_vi",
-  "version": "2.0.0",
+  "name": "ktorvinfo",
+  "version": "2.0.1",
   "description": "Got my card yet ? ",
   "main": "build.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "dev": "nodemon build.js"
   },
   "repository": "git+https://github.com/ktor-vi/gotmycard.git",
-  "author": "ktor_vi",
+  "author": "ktor-vi",
   "license": "ISC",
   "bin": {
     "ktor_vi": "./build.js"
@@ -26,7 +26,8 @@
     "figlet": "^1.2.3",
     "gradient-string": "^1.2.0",
     "inquirer": "^9.2.12",
-    "open": "^9.1.0"
+    "open": "^9.1.0",
+    "trim-newlines": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
