@@ -7,7 +7,7 @@ Second node project - got my npx card yet ?
 
 #### Run it : 
 ```
-npx ktor_vi
+npx ktorvinfo
 ```
 ##### 2023 - updated 
 It was not working, had to downgrade chalk so I could use my special hsl func, check it out it's neat (trigonometry, heh)
