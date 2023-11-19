@@ -62,7 +62,7 @@ let data = {
   github: ['\ngithub', 'https://github.com/ktor-vi'],
   instagram: ['IG', 'ktor.vi'],
   linkedIn: ['linkedIn', 'https://www.linkedin.com/in/ktor-vi/'],
-  npx: ['card', 'npx ktor-vi']
+  npx: ['card', 'npx ktorvinfo']
 }
 
 
