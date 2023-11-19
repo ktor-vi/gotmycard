@@ -2,12 +2,11 @@
 
 // console.log('Terminal size: ' +  + 'x' + process.stdout.rows);
 
-
-const boxen = require('boxen');
-const chalk = require('chalk');
-const chalkAnimation = require('chalk-animation');
-const figlet = require('figlet');
-const gradient = require('gradient-string');
+import boxen from "boxen";
+import chalk from "chalk";
+import chalkAnimation from "chalk-animation";
+import figlet from "figlet";
+import gradient from "gradient-string";
 
 
 const options = {
@@ -53,17 +52,18 @@ let data = {
   lastName: ['lastName', 'Philippe'],
   firstName: ['firstName', 'Victor'],
   pseudonym: ['pseudonym', 'ktor_vi', ],
-  age: ['age', '22y/o'],
+  age: ['age', '26y/o'],
 
-  location: ['\nlocation', 'Liège, Belgium'],
+  location: ['\nlocation', 'Brussels, Belgium'],
 
-  occupation: ['\noccupation', 'Junior webdeveloper'],
-  partOfa: ['      @Becode', 'Learner'],
-  partOfb: ['      @Souplex', 'Communication, Vjing, Techie dude'],
+  occupation: ['\noccupation', 'Junior Developer'],
+  partOfa: ['      @19', 'Learner'],
+  partOfb: ['      @ktorvi.me', 'Fooling around, Techie dude'],
 
+  website: ['website', 'https:/ktorvi.me'],
   github: ['\ngithub', 'https://github.com/ktor-vi'],
-  npm: ['npm', 'https://www.npmjs.com/~ktor_vi'],
-  linkedIn: ['linkedIn', 'https://www.linkedin.com/in/victor-philippe-989802186/'],
+  instagram: ['IG', 'ktor.vi'],
+  linkedIn: ['linkedIn', 'https://www.linkedin.com/in/ktor-vi/'],
   npx: ['card', 'npx ktor_vi']
 }
 
