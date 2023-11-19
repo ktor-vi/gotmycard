@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 import boxen from "boxen";
 import chalk from "chalk";
 import chalkAnimation from "chalk-animation";
