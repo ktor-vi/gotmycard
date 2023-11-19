@@ -1,6 +1,6 @@
 {
   "name": "ktorvinfo",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Got my card yet ? ",
   "main": "build.js",
   "scripts": {
