@@ -1,5 +1,3 @@
-// console.log('Terminal size: ' +  + 'x' + process.stdout.rows);
-
 import boxen from "boxen";
 import chalk from "chalk";
 import chalkAnimation from "chalk-animation";
