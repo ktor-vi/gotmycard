@@ -11,7 +11,7 @@
   "author": "ktor-vi",
   "license": "ISC",
   "bin": {
-    "ktor_vi": "./build.js"
+    "ktor-vi": "./build.js"
   },
   "type": "module",
   "bugs": {
