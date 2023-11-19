@@ -1,5 +1,3 @@
-#!/usr/bin/node
-
 // console.log('Terminal size: ' +  + 'x' + process.stdout.rows);
 
 import boxen from "boxen";
@@ -51,7 +49,7 @@ console.log(boxen((gradient('cyan', 'pink')(fig)), optionsfig))
 let data = {
   lastName: ['lastName', 'Philippe'],
   firstName: ['firstName', 'Victor'],
-  pseudonym: ['pseudonym', 'ktor_vi', ],
+  pseudonym: ['pseudonym', 'ktorvi', ],
   age: ['age', '26y/o'],
 
   location: ['\nlocation', 'Brussels, Belgium'],
@@ -64,7 +62,7 @@ let data = {
   github: ['\ngithub', 'https://github.com/ktor-vi'],
   instagram: ['IG', 'ktor.vi'],
   linkedIn: ['linkedIn', 'https://www.linkedin.com/in/ktor-vi/'],
-  npx: ['card', 'npx ktor_vi']
+  npx: ['card', 'npx ktor-vi']
 }
 
 
